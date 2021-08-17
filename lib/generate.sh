@@ -1,0 +1,1 @@
+protoc --dart_out=grpc:protos_out -Iprotos protos/calc.proto
